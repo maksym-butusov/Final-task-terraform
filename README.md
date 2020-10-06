@@ -1,4 +1,4 @@
-### Jekins pipelines for repo: https://github.com/maksym-butusov/docker-intermine-gradle
+### Terraform environment for project: https://github.com/maksym-butusov/Final-task-app-intermine
 
 ## Schema of the project:
 
