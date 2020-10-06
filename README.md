@@ -1,4 +1,8 @@
-# Final-task-2
+### Jekins pipelines for repo: https://github.com/maksym-butusov/docker-intermine-gradle
+
+## Schema of the project:
+
+![](img/environment.png  )
 
 ### Tasks
 1. Repository - https://github.com/intermine/intermine
